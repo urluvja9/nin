@@ -1,1 +1,2 @@
 annyeong
+Learning Git basics
