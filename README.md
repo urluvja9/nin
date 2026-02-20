@@ -1,3 +1,3 @@
 annyeong
 Learning Git basics
-konichiwa
+konichiwa sayonara
